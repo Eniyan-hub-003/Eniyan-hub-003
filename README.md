@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eniyan-hub-003
-- 👀 I’m interested in python
+- 👀 I’m interested in python dev
 - 🌱 I’m currently looking for a job
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - www.linkedin.com/in/eniyan-subramanian
